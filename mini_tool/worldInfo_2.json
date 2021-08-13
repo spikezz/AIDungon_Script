@@ -1,0 +1,83 @@
+[
+  {
+    "type": "location",
+    "keys": "MH",
+    "entry": "Neutral\nThe  second-largest city in the province BW which located in west of country G.",
+    "hidden": true,
+    "name": "MH",
+    "description": "Neutral\nThe  second-largest city in the province BW which located in west of country G.",
+    "attributes": null,
+    "publicId": "578746b3-8f37-464f-83df-cb5c55d72c54"
+  },
+  {
+    "type": "faction",
+    "keys": "BW State Police, faction",
+    "entry": "The BW State Police is a very powerful force that protects the citizens of the BW. The BW State Police is a very professional force that is well-equipped and trained.",
+    "hidden": true,
+    "name": "BW State Police",
+    "description": "The BW State Police is a very powerful force that protects the citizens of the BW. The BW State Police is a very professional force that is well-equipped and trained.",
+    "attributes": {
+      "name": "BW State Police",
+      "description": "The BW State Police is a police force that protects theBW Earth. The BW State Police is a very powerful force that protects the citizens of the BW Earth. The BW State Police is a very professional force that is well equipped and trained to fight."
+    },
+    "publicId": "8bfc809e-1b8c-4ff9-850c-48e2a8c4900b"
+  },
+  {
+    "type": "character",
+    "keys": "Veronica",
+    "entry": "NAME: Veronica; MENTAL:  alert, resolute, protective, empathetic, determined, serious, smart, sexy, strong, slim; ORIGIN: Province BW, city MH; SUMMARY: She is a female police officer, and she loves her husband.; EQUIPMENT: Police uniform(black-color, tight, body-fitting), belt (silver-color), gun; APPEARANCE: Cheetah-like figure, blonde hair(long), gray eyes",
+    "hidden": true,
+    "name": "Veronica",
+    "description": null,
+    "attributes": {
+      "MENTAL": "MENTAL:  alert, resolute, protective, empathetic, sexy",
+      "ORIGIN": "ORIGIN: Province BW, city MH",
+      "SUMMARY": "SUMMARY: Determined, serious, smart, sexy, strong, slim.She is a female police officer, and she loves her husband",
+      "EQUIPMENT": "EQUIPMENT: Police uniform(black-color, tight, body-fitting), belt (silver-color), gun",
+      "APPEARANCE": "APPEARANCE: Athletic figure, blonde hair(long), gray eyes"
+    },
+    "publicId": "6395a289-ac57-4e6b-86ab-1acea12c0740"
+  },
+  {
+    "type": "location",
+    "keys": "BW",
+    "entry": "Neutral\nA province located in the west of country G. city MH is under the jurisdiction of it.",
+    "hidden": true,
+    "name": "BW",
+    "description": "Neutral\nA province located in the west of country G. city MH is under the jurisdiction of it.",
+    "attributes": null,
+    "publicId": "49673411-7473-49c9-83f0-b785d8c0c2ea"
+  },
+  {
+    "type": "character",
+    "keys": "Barrett",
+    "entry": "NAME: Barrett; MENTAL: Focused, intelligent, careless, talk too much.; ORIGIN: BW ; SUMMARY: 21 years old, BW Police Academy graduate. Manages the team's drones, supplies, and weaponry; EQUIPMENT:  Police uniform(black-color, tight, body-fitting), belt (silver-color), Walkie Talkie.; APPEARANCE: Brown hair, brown eyes, brown skin, slim build,",
+    "hidden": true,
+    "name": "Barrett",
+    "description": null,
+    "attributes": {
+      "MENTAL": "MENTAL: Focused, intelligent, careless, talk too much.",
+      "ORIGIN": "ORIGIN: BW Earth",
+      "SUMMARY": "SUMMARY: 21 years old, BW Police Academy graduate. Manages the team's drones, supplies, and weaponry",
+      "EQUIPMENT": "EQUIPMENT:  Police uniform(black-color, tight, body-fitting), belt (silver-color), Walkie Talkie.",
+      "APPEARANCE": "APPEARANCE: Brown hair, brown eyes, palm skin, slim build,"
+    },
+    "publicId": "05a5360d-5f26-44c6-9e49-b0ffe9574d6d"
+  },
+  {
+    "type": "character",
+    "keys": "Anastasios，Staas",
+    "entry": "NAME: Anastasios; MENTAL:  clever,  humble, obsessive, passionate, kind, wise, observant, friendly, generous, helpful, loving; ORIGIN: Earth; SUMMARY: 32 years old, Veronica's husband. Veronica always call him \"little wolfie\", \"Staas\" is his nickname.; EQUIPMENT: blue jeans, black jacket, leather shoes; APPEARANCE: Short black hair, blue eyes, beard, average build",
+    "hidden": true,
+    "name": "Anastasios",
+    "description": null,
+    "attributes": {
+      "MENTAL": "MENTAL:  clever,  humble, obsessive, passionate, kind, wise, observant, friendly, generous, helpful, loving",
+      "ORIGIN": "ORIGIN: Earth",
+      "SUMMARY": "SUMMARY: 32 years old, Veronica's husband. Veronica always call him \"little wolfie\".",
+      "EQUIPMENT": "EQUIPMENT: blue jeans, black jacket, leather shoes",
+      "APPEARANCE": "APPEARANCE: Short black hair, blue eyes, beard, average build"
+    },
+    "publicId": "87a00de2-1266-41f5-803c-60c98b40c149"
+  }
+]

@@ -57,10 +57,10 @@
   {
     "type": "faction",
     "keys": "Governor, faction",
-    "entry": "The Governor is an organization, who makes people aware of the control they are under through terrorist attacks.",
+    "entry": "The Governor is an organization, who makes people aware of the control they are under through fake  terrorist attacks.",
     "hidden": true,
     "name": "Governor",
-    "description": "The Governor is an organization, who makes people aware of the control they are under through terrorist attacks.",
+    "description": "The Governor is an organization, who makes people aware of the control they are under through fake terrorist attacks.",
     "attributes": {
       "name": "Governor",
       "description": "The Governor of the planet is a man named Norman."
