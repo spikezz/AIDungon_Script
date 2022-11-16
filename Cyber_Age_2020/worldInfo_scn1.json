@@ -1,0 +1,33 @@
+[
+  {
+    "description": "The Governor is an organization, who makes people aware of the control they are under through fake terrorist attacks.",
+    "name": "Governor",
+    "genre": null,
+    "tags": [],
+    "type": "faction",
+    "attributes": {
+      "name": "Governor",
+      "description": "The Governor of the planet is a man named Norman."
+    },
+    "keys": "Governor, faction",
+    "entry": "The Governor is an organization, who makes people aware of the control they are under through fake  terrorist attacks.",
+    "publicId": "86a79168-c948-4358-b5ea-2a741e3b7e08"
+  },
+  {
+    "description": null,
+    "name": "Sunny",
+    "genre": null,
+    "tags": [],
+    "type": "character",
+    "attributes": {
+      "MENTAL": "MENTAL: Determined, bright, mature, cheerful, responsible, cheerful, passionate, brave, loyal",
+      "ORIGIN": "ORIGIN: China",
+      "SUMMARY": "SUMMARY: 19 years old, Chinese, love for travel and fashion, is a shop assistant at Lisa's shoe shop.",
+      "EQUIPMENT": "EQUIPMENT: Smartphone",
+      "APPEARANCE": "APPEARANCE: Black hair (thin), black eyes, slim, pretty, stylish, bright pink coat, purple-color shoes"
+    },
+    "keys": "Sunny",
+    "entry": "NAME: Sunny; MENTAL: Determined, bright, mature, cheerful, responsible, cheerful, passionate, brave, loyal; ORIGIN: China; SUMMARY: 19 years old, Chinese, love for travel and music, is a shop assistant at Lisa's shoe shop.; EQUIPMENT: Smartphone; APPEARANCE: Black hair (thin), black eyes, slim, pretty, big-sized comfortable T-shirt, Denim shorts, white sneakers",
+    "publicId": "f5cc903e-49e5-4b3f-9fb1-67ae11f8c1c6"
+  }
+]
